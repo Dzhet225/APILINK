@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "environment": "PROD_DEV",
+  "api": {
+    "host": "api.r2rage.com",
+    "tlsPort": 8762,
+    "httpsBaseUrl": "https://api.r2rage.com:8761"
+  },
+  "pages": {
+    "info": "https://api.r2rage.com:8761/pages/info",
+    "news": "https://api.r2rage.com:8761/pages/news",
+    "events": "https://api.r2rage.com:8761/pages/events",
+    "update": "https://api.r2rage.com:8761/pages/update",
+    "top": "https://api.r2rage.com:8761/pages/top",
+    "auction": "https://api.r2rage.com:8761/pages/auction",
+    "trade": "https://api.r2rage.com:8761/pages/trade"
+  },
+  "cdn": {
+    "r2pvp_default": "http://37.230.228.182:6768/clients/1602",
+    "r2rage_1703": "http://37.230.228.182:6768/clients/1703"
+  },
+  "external": {
+    "forum": "https://forum.r2rage.com/",
+    "balance": "https://forum.r2rage.com/p/3-balance",
+    "website": "https://r2rage.com/",
+    "discord": "https://discord.com/invite/r2rage",
+    "download": "https://forum.r2rage.com/d/10-nachat-igrat"
+  },
+  "legacy": {
+    "lApi": "http://37.230.228.182:17005/louncher",
+    "lApi2": "http://37.230.228.182:17005/louncher"
+  }
+}
