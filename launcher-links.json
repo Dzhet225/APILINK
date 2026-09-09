@@ -19,6 +19,9 @@
     "r2pvp_default": "http://37.230.228.182:6768/clients/1602",
     "r2rage_1703": "http://37.230.228.182:6768/clients/1703"
   },
+  "launcherUpdates": {
+    "windows": "http://37.230.228.182:6768/launcher/win32"
+  },
   "external": {
     "forum": "https://forum.r2rage.com/",
     "balance": "https://forum.r2rage.com/p/3-balance",
